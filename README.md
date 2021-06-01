@@ -22,5 +22,3 @@ The approach i went was to basically
 5. Save the object to database using the sku id or product id as the key.
 6. A get method which gets a product id which will pass to a method, which will make a db call to fetch the json object using the id and expose it to end user.
 7. close db connection
-
-I hope this helps and would bare any concepts with regards to seperating the logics in differrent file while writing an application in typescript.
