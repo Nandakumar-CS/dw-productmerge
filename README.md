@@ -1,7 +1,4 @@
 # dw-productmerge
-Humble attempt to write javascript/typescript for the first time :)
-
-
 To run the application locally, all you have to do is to checkout the repo in local and run using "npm start" if nodejs is installed in the local
 
 The scheduling feature is wriiten in nodejs itself and it is configured to execute for 10 second and every 10 second it will access the resources from the endpoints 
